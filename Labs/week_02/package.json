@@ -1,0 +1,18 @@
+{
+  "name": "week_02",
+  "version": "1.0.0",
+  "description": "Callback Promise and Async Await ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joel",
+  "license": "ISC",
+  "keywords": [
+    "node",
+    "js",
+    "week02",
+    "gbc",
+    "promise"
+  ]
+}
